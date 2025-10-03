@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531841284748",
+    "project_id": "quote-16417",
+    "storage_bucket": "quote-16417.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531841284748:android:b5ef98987f5c41aa1619a9",
+        "android_client_info": {
+          "package_name": "com.example.quote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Rhsb21ctcUj0QsoIRvIlQV1GN9tlESE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
