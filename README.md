@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://github.com/yourusername/quote-app/blob/main/assets/logo.png" alt="Quote App Logo" width="200"/>
+  <img src="https://github.com/Lord-shaban/quote/blob/main/assets/icon/icon.png" alt="Quote App Logo" width="200"/>
   
   <h3>✨ Inspire • Share • Connect ✨</h3>
   
