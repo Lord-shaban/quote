@@ -29,7 +29,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   
-  <img src="https://github.com/yourusername/quote-app/blob/main/screenshots/mockup.png" alt="App Mockup" width="800"/>
+  <img src="https://github.com/Lord-shaban/quote/blob/main/assets/mockup/iPhone%2013%20Pro.png" alt="App Mockup" width="800"/>
   
 </div>
 
